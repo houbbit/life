@@ -1,1 +1,14 @@
-Todo: Fill in README
+Usage: life.py [options]
+
+Options:
+  -h, --help            show this help message and exit
+  -c COLS, --horizontal=COLS
+                        number of colums (int)
+  -r ROWS, --vertical=ROWS
+                        number of rows (int)
+  -t REVS, --revolutions=REVS
+                        number of revolutions (int)
+
+
+Dependencies: None
+
